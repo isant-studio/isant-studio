@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-    src="https://res.cloudinary.com/barberoos-cloudinary/image/upload/v1784162753/ISANT_WHITE_BADGE_jmmdj9.png"
+    src="https://res.cloudinary.com/barberoos-cloudinary/image/upload/v1784163452/isant-badge-reddefinitive_lfoufe.png"
     width="100%"
     alt="ISANT Studio Banner"
 />
